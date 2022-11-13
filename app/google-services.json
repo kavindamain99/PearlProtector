@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283906348004",
+    "project_id": "pearl-protectors",
+    "storage_bucket": "pearl-protectors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283906348004:android:2a4507ea2b79c87e402df1",
+        "android_client_info": {
+          "package_name": "com.example.pearlprotectors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283906348004-ccgmps4medhka3rujj8i7vukgcq4s4dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAafco9oUniQ55p7Q7kxWPvrIywFsRQAf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283906348004-ccgmps4medhka3rujj8i7vukgcq4s4dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
